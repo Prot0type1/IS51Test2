@@ -11,5 +11,18 @@ average grades & the percentages of grades that are above the average.
 """
 
 """
+main
+    starts the applicaiton 
+    finalgrades = each grade (total amount)
+        displays the amount of students that have
+    calculate the average 
+        displays the amount of studnets that have
+    calculate the percent that is above average
+grades
+    read Final.txt
+    create list of integers from the grades txt
+    close file 
+
+main()
 
 """
